@@ -44,4 +44,5 @@ product3.getInfo();
 // product3.getEletronicsInfo();
 product3.applyDicount(10);
 // product4.getEletronicsInfo();
+product4.getInfo();
 product4.applyDicount(20);
